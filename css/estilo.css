@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(58, 53, 53);
+    text-align: center;
+}
+header {
+    background-color: aliceblue;
+    text-align: center;
+}
+.banner {
+    width: 100%;
+}
+.container {
+    width: 80%;
+    background-color: rgb(205, 210, 214);
+    text-align: center;
+    font-size: large;
+    margin: auto;
+}
+footer {
+    background-color: rgb(217, 220, 223);
+}
